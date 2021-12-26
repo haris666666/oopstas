@@ -1,0 +1,13 @@
+C:\Users\sergo\source\repos\oop0312\oop0312\bin\Debug\netcoreapp3.1\oop0312.exe
+C:\Users\sergo\source\repos\oop0312\oop0312\bin\Debug\netcoreapp3.1\oop0312.deps.json
+C:\Users\sergo\source\repos\oop0312\oop0312\bin\Debug\netcoreapp3.1\oop0312.runtimeconfig.json
+C:\Users\sergo\source\repos\oop0312\oop0312\bin\Debug\netcoreapp3.1\oop0312.runtimeconfig.dev.json
+C:\Users\sergo\source\repos\oop0312\oop0312\bin\Debug\netcoreapp3.1\oop0312.dll
+C:\Users\sergo\source\repos\oop0312\oop0312\bin\Debug\netcoreapp3.1\oop0312.pdb
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.csprojAssemblyReference.cache
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.AssemblyInfoInputs.cache
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.AssemblyInfo.cs
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.csproj.CoreCompileInputs.cache
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.dll
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.pdb
+C:\Users\sergo\source\repos\oop0312\oop0312\obj\Debug\netcoreapp3.1\oop0312.genruntimeconfig.cache
